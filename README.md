@@ -50,4 +50,3 @@ the url must be URL_ENCODED before making the request (notice the %20 which enco
 ### List All Users
 ```curl "http://localhost:9095/user"```
 running the above GET request will result to an 200 Ok HTTP response and JSON Content-Type of Application/json and a list (maybe empty) of all users in DB
-
